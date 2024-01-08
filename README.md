@@ -17,5 +17,5 @@
 3. [로또 번호 추출기](https://github.com/qkrwlscjf96/daniel.park/tree/main/로또번호%20추출기)
    : 지금까지 나온 로또 번호를 카운트 하고 가중치를 주어 중복값 없이 6개 번호 추출 
 
-4. [주식 항목](https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
+4. [주식](https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
    : 퀀트투자 (업데이트 中) 
