@@ -14,10 +14,8 @@
 2. [[Folium] 경남지역 독서실 카페](https://github.com/qkrwlscjf96/daniel.park/tree/47157fabdd31a60c953518d1d25ca0b79cafac93/%5BFolium%5D%20%EA%B2%BD%EB%82%A8%EC%A7%80%EC%97%AD%20%EB%8F%85%EC%84%9C%EC%8B%A4%20%EC%B9%B4%ED%8E%98)
    : Folium Library 사용, 경남지역 독서실 카페 지도에 표현 및 경남지역 총 독서실 갯수 대비 거제 지역 독서실 갯수 퍼센티지 분석
 
-3. [로또 번호 추출기]
-(https://github.com/qkrwlscjf96/daniel.park/tree/main/로또번호%20추출기)https://github.com/qkrwlscjf96/daniel.park/tree/main/로또번호%20추출기)
+3. [로또 번호 추출기](https://github.com/qkrwlscjf96/daniel.park/tree/main/로또번호%20추출기)
    : 지금까지 나온 로또 번호를 카운트 하고 가중치를 주어 중복값 없이 6개 번호 추출 
 
-5. [주식 항목]
-(https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
+4. [주식 항목](https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
    : 퀀트투자 (업데이트 中) 
