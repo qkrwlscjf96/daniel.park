@@ -1,14 +1,15 @@
 # Data Science
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Daniel`s%20Github&fontSize=50)
 
-### Connect with me:
+**[Connect with me]**
 
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
-[youtube]: https://youtube.com/
-[linkedin]: https://linkedin.com/in/
+[youtube]: https://www.youtube.com/channel/UC9TrhcSB5vCn6Vl4Um2eFMg
+[linkedin]: https://linkedin.com/in/](https://www.linkedin.com/in/진철-박-9617b6225
 
+<br/><br/>
 
 **[Summary]**
 
