@@ -28,4 +28,7 @@
    : 지금까지 나온 로또 번호를 카운트 하고 가중치를 주어 중복값 없이 6개 번호 추출 
 
 4. [주식](https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
-   : 퀀트투자 (업데이트 中) 
+   : 퀀트투자 (업데이트 中)
+
+5. [회사꿀자료](https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
+   : 회의록 자동생성 엑셀파일 / 타임스케줄러 + Todolist 관리 엑셀파일 (업데이트 中) 
