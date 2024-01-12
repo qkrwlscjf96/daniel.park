@@ -7,7 +7,7 @@
 [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UC9TrhcSB5vCn6Vl4Um2eFMg
-[linkedin]: https://linkedin.com/in/](https://www.linkedin.com/in/진철-박-9617b6225
+[linkedin]: https://www.linkedin.com/in/진철-박-9617b6225/
 
 <br/><br/>
 
