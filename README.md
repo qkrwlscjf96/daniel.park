@@ -30,5 +30,5 @@
 4. [주식](https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
    : 퀀트투자 (업데이트 中)
 
-5. [회사꿀자료](https://github.com/qkrwlscjf96/daniel.park/tree/main/회사꿀자료)
+5. [회사꿀자료]([https://github.com/qkrwlscjf96/daniel.park/tree/main/회사꿀자료](https://github.com/qkrwlscjf96/daniel.park/tree/main/회사꿀자료)https://github.com/qkrwlscjf96/daniel.park/tree/main/회사꿀자료)
    : 회의록 자동생성 엑셀파일 / 타임스케줄러 + Todolist 관리 엑셀파일 (업데이트 中) 
