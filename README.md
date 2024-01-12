@@ -3,7 +3,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="<a  href="https://icons8.com/icon/9itS6I2x2vV2/youtube">Youtube</a> icon by <a href="https://icons8.com">Icons8</a>" />][youtube]
+[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 [youtube]: https://youtube.com/
