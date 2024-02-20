@@ -1,4 +1,4 @@
-# Profile
+ # Profile
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Daniel`s%20Github&fontSize=50)
 
 **[Connect with me]**
@@ -26,8 +26,9 @@
 
 3. [로또 번호 추출기](https://github.com/qkrwlscjf96/daniel.park/tree/main/로또번호%20추출기)
    : 지금까지 나온 로또 번호를 카운트 하고 가중치를 주어 중복값 없이 6개 번호 추출
+<br/>
 https://github.com/qkrwlscjf96/daniel.park/assets/139681288/0e5f4373-cd2e-451f-bcad-7cd4b1887b99
-
+<br/>
 5. [주식](https://github.com/qkrwlscjf96/daniel.park/tree/main/주식)
    : 퀀트투자 (업데이트 中)
 
@@ -36,6 +37,7 @@ https://github.com/qkrwlscjf96/daniel.park/assets/139681288/0e5f4373-cd2e-451f-b
 
 7. [뉴스크롤링]
    : 네이버 뉴스 데이터 크롤링 후 워드클라우드로 시각화
+<br/>
 https://github.com/qkrwlscjf96/daniel.park/assets/139681288/f423b6cf-52df-4b7f-a572-bbdb5fd9ab42
 
 
