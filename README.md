@@ -34,7 +34,7 @@ https://github.com/qkrwlscjf96/daniel.park/assets/139681288/0e5f4373-cd2e-451f-b
 6. [회사꿀자료](https://github.com/qkrwlscjf96/daniel.park/tree/main/회사꿀자료)
    : 회의록 자동생성 엑셀파일 / 타임스케줄러 + Todolist 관리 엑셀파일 (업데이트 中)
 
-7. [뉴스크롤링]
+7. [뉴스크롤링](https://github.com/qkrwlscjf96/daniel.park/tree/main/뉴스크롤링)
    : 네이버 뉴스 데이터 크롤링 후 워드클라우드로 시각화
 https://github.com/qkrwlscjf96/daniel.park/assets/139681288/f423b6cf-52df-4b7f-a572-bbdb5fd9ab42
 
