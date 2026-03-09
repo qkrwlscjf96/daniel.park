@@ -6,10 +6,10 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me / 연락하기
 
-[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/channel/UC9TrhcSB5vCn6Vl4Um2eFMg)  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/진철-박-9617b6225/)
+[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/channel/UC9TrhcSB5vCn6Vl4Um2eFMg) **유튜브**  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/진철-박-9617b6225/) **링크드인**
 
 ---
 
@@ -21,10 +21,10 @@
 - **뉴스 크롤링 요약** – [Github Repository](https://github.com/qkrwlscjf96/news_crawling)
 
 ### 🧠 머신러닝 프로젝트
-1. 주가 예측
-2. 일산지역 독서실 매출 영향도 분석
-3. 영화 리뷰 데이터 긍정부정 예측
-4. 돈사 최적 환경 예측
+1. [주가 예측](발표자료/주가 예측.pdf)
+2. [일산지역 독서실 매출 영향도 분석](발표자료/일산지역 독서실 매출 영향도 분석.pdf)
+3. [영화 리뷰 데이터 긍정부정 예측](발표자료/영화 리뷰 데이터 긍정부정 예측.pdf)
+4. [돈사 최적 환경 예측](발표자료/돈사 최적 환경 예측.pdf)
 
 ---
 
