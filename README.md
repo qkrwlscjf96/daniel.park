@@ -1,6 +1,6 @@
  # 👋 Welcome to Daniel's GitHub
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Daniel`s%20Github&fontSize=50)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spotfire](https://img.shields.io/badge/Spotfire-005F73?style=for-the-badge&logoColor=white)
 
 안녕하세요!
 
