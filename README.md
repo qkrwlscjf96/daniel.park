@@ -18,6 +18,7 @@
 - **주가 이상탐지** – [Github Repository](https://github.com/qkrwlscjf96/stock)
 - **로또 번호 예측** – [Github Repository](https://github.com/qkrwlscjf96/lotto)
 - **뉴스 크롤링 요약** – [Github Repository](https://github.com/qkrwlscjf96/news_crawling)
+- **매출 데이터 대쉬보드** – [Github Repository](https://github.com/qkrwlscjf96/sales_dashboard)
 
 ### 🧠 발표자료
 - **주가 예측** - [Link](https://github.com/qkrwlscjf96/daniel.park/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8.pdf)
